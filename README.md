@@ -1,5 +1,5 @@
-How to reproduce berkshelf/berkshelf#1616
-=========================================
+# How to reproduce [berkshelf/berkshelf#1616](https://github.com/berkshelf/berkshelf/issues/1616)
+
 Do these things:
 
     rm -rf .berkshelf
